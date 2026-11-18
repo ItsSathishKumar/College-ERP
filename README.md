@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # 🎓 College ERP System
@@ -307,3 +308,6 @@ Having issues? Need help?
 *If this project helped you, consider giving it a star! ⭐*
 
 </div>
+=======
+# College-ERP
+
